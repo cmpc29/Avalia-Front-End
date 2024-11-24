@@ -30,8 +30,8 @@ export default function Home() {
           </div>
           <div className="bg-black h-1 mx-36 my-11"></div>
           <div className="flex">
-            <div className="ml-20 mb-5 text-black text-[36px]">Todos os Professores</div>
-            <Link href="/usuario/Login" className="bg-[#00ABED] w-36 h-11 ml-auto mr-36 border border-white rounded-xl shadow-md text-white text-center text-[30px]">
+            <div className="ml-20 mb-5 text-black text-[36px] font-Questrial">Todos os Professores</div>
+            <Link href="/usuario/Login" className="bg-[#00ABED] w-36 h-11 ml-auto mr-36 border border-white rounded-xl shadow-md text-white text-center text-[30px] font-Questrial">
             Ordenar
             </Link>
           </div>
